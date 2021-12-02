@@ -615,4 +615,7 @@ body:not(.user-is-tabbing) a:focus {
 .card{
     height: 10cm;
     width: 10cm;
+    /* display: flex; */
+    /* flex-direction: row-reverse; */
+    /* align-items: center; */
 }
