@@ -619,3 +619,7 @@ body:not(.user-is-tabbing) a:focus {
     /* flex-direction: row-reverse; */
     /* align-items: center; */
 }
+
+.projects_box{
+    display: flex;
+}
